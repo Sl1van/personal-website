@@ -1,0 +1,23 @@
+// html, body { height: 100%; }
+
+#parent{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#maintext {
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+}
+
+#maintext2{
+    font-size: 50pt;
+    padding: 0pt;
+    width: fit-content;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
